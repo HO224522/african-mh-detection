@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data & Models (trop lourds pour Git)
+data/models/*.bin
+data/models/*.pt
+data/models/*.onnx
+data/models/*.pkl
+*.safetensors
+*.h5
+
+# MLflow / WandB
+mlruns/
+wandb/
+.wandb/
+
+# Logs
+logs/
+*.log
+tensorboard_logs/
+
+# Tests
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets
+.env.local
+.env.production
+secrets.yml
+*.pem
+*.key
+
+# Docker
+.dockerignore
+
+# Hydra outputs
+outputs/
+multirun/
