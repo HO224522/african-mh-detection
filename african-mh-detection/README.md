@@ -1,4 +1,4 @@
-# 🧠 African Mental Health Signal Detection System
+#  African Mental Health Signal Detection System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Vue d'ensemble
+##  Vue d'ensemble
 
 Ce projet développe un système NLP multi-tâches capable de détecter des signaux de détresse psychologique dans les langues d'Afrique de l'Ouest (français, Moore, Dioula, code-switching), tout en respectant la vie privée des utilisateurs et en appliquant un cadre éthique rigoureux.
 
@@ -25,20 +25,20 @@ Ce projet développe un système NLP multi-tâches capable de détecter des sign
 
 ---
 
-## ✨ Fonctionnalités Clés
+##  Fonctionnalités Clés
 
 | Fonctionnalité | Description |
 |---|---|
-| 🤖 **Multi-task Learning** | 3 sorties simultanées : signal, catégorie, contexte |
-| 🌍 **Multilingue** | Français, Moore, Dioula, code-switching |
-| 🔒 **Privacy-First** | Inférence on-device, chiffrement bout-en-bout |
-| ⚖️ **Fairness Audit** | Audit mensuel des biais par dialecte |
-| 🏥 **NGO Partnership** | Intégration avec SOS AMITIÉ, Université Ki-Zerbo |
-| 📱 **Mobile-Ready** | Modèle quantisé <100MB pour Android/iOS |
+|  **Multi-task Learning** | 3 sorties simultanées : signal, catégorie, contexte |
+|  **Multilingue** | Français, Moore, Dioula, code-switching |
+|  **Privacy-First** | Inférence on-device, chiffrement bout-en-bout |
+|  **Fairness Audit** | Audit mensuel des biais par dialecte |
+|  **NGO Partnership** | Intégration avec SOS AMITIÉ, Université Ki-Zerbo |
+|  **Mobile-Ready** | Modèle quantisé <100MB pour Android/iOS |
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Input Text (FR/Moore/Dioula)
@@ -68,7 +68,7 @@ Signal  Categ.  Context
 
 ---
 
-## 🚀 Démarrage Rapide
+## Démarrage Rapide
 
 ### Installation
 
@@ -108,7 +108,7 @@ docker run -p 8000:8000 african-mh-api:latest
 
 ---
 
-## 📊 Performance Cible
+##  Performance Cible
 
 | Métrique | Cible | Justification |
 |---|---|---|
@@ -121,7 +121,7 @@ docker run -p 8000:8000 african-mh-api:latest
 
 ---
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```
 african-mh-detection/
@@ -170,7 +170,7 @@ african-mh-detection/
 
 ---
 
-## 🗺️ Feuille de Route
+## Feuille de Route
 
 - **Phase 1** (Jan–Apr 2026) : Annotation corpus (1500 textes) + Partenariats ONG
 - **Phase 2** (Apr–Mai 2026) : Entraînement modèle + Calibration seuils
@@ -179,7 +179,7 @@ african-mh-detection/
 
 ---
 
-## 🤝 Partenaires
+##  Partenaires
 
 - **SOS AMITIÉ Burkina** — Ressources santé mentale & ligne d'écoute
 - **Université Ki-Zerbo** — Validation scientifique & annotation corpus
@@ -187,20 +187,20 @@ african-mh-detection/
 
 ---
 
-## ⚖️ Éthique & Confidentialité
+##  Éthique & Confidentialité
 
 Ce système respecte des principes éthiques stricts :
-- ❌ **Pas de diagnostic médical** — Orientation uniquement
-- ❌ **Pas d'intervention forcée** — L'utilisateur garde le contrôle
-- ✅ **Anonymat total** — Aucun identifiant stocké
-- ✅ **Audit biais mensuel** — Équité entre dialectes
-- ✅ **Transparent** — Code open-source, modèle explicable
+-  **Pas de diagnostic médical** — Orientation uniquement
+-  **Pas d'intervention forcée** — L'utilisateur garde le contrôle
+-  **Anonymat total** — Aucun identifiant stocké
+-  **Audit biais mensuel** — Équité entre dialectes
+-  **Transparent** — Code open-source, modèle explicable
 
 Voir [ETHICS.md](docs/ETHICS.md) pour le cadre complet.
 
 ---
 
-## 🤝 Contribuer
+##  Contribuer
 
 Les contributions sont les bienvenues ! Voir [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -213,17 +213,17 @@ pytest tests/ -v
 
 ---
 
-## 📄 Licence
+## Licence
 
 MIT License — Voir [LICENSE](LICENSE). Libre pour adaptation par ONG et gouvernements.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Compétition** : [Presidential African Youth in AI 2026](https://ele-vate.co.za)  
 **GitHub** : [HO224522/african-mh-detection](https://github.com/HO224522/african-mh-detection)
 
 ---
 
-*Fait avec ❤️ pour l'Afrique de l'Ouest | Burkina Faso 🇧🇫*
+OUEDRAOGO W HASSANE FOR AFRICA | Burkina Faso 🇧🇫*
