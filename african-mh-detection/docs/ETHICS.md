@@ -79,7 +79,7 @@ Les messages de routage sont disponibles en Moore, Dioula et Français. Les comm
 
 Si le système détecte un signal critique (idéation suicidaire) :
 
-1. Le message de routage inclut immédiatement le **numéro SOS AMITIÉ : 80 00 14 14**
+1. Le message de routage inclut immédiatement le **numéro SOS AMITIÉ : 80 00 14 14 ( remarquons ici que ce numero est a titre indicatif )**
 2. Disponible 24h/24, gratuit, confidentiel
 3. Disponible en français et en langues locales
 
