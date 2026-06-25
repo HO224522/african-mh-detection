@@ -1,4 +1,4 @@
-# 🚀 Guide de Déploiement
+#  Guide de Déploiement
 
 ## Options de déploiement
 
