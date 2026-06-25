@@ -1,4 +1,4 @@
-# 📋 Guide d'Annotation du Corpus
+#  Guide d'Annotation du Corpus
 
 ## Vue d'ensemble
 
@@ -30,7 +30,7 @@ text, task1_signal, task2_category, task3_context, dialect, annotator_notes
 - Épuisement extrême empêchant le fonctionnement
 - Sentiment de ne plus avoir de valeur ou d'utilité
 
-**⚠️ Attention** : La politesse culturelle peut masquer la détresse. "Ça va, je me débrouille" peut cacher une souffrance en contexte burkinabè.
+** Attention** : La politesse culturelle peut masquer la détresse. "Ça va, je me débrouille" peut cacher une souffrance en contexte burkinabè.
 
 ---
 
